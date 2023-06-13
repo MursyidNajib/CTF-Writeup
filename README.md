@@ -8,6 +8,6 @@ List of Challange I solved.
 ### Week 1
 | Category | Challenge |
 | --- | --- |
-| MISCELLANEOUS | [Sanity Check](/Sanity Check/)
+| MISCELLANEOUS | [Sanity Check](/Sanity Check%201/)
 | WEB EXPLOITATION | [Fortune Cookies](/Judul%202/)
  
