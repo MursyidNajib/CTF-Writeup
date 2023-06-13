@@ -9,8 +9,8 @@ web tersebut akan memberikan kita kue keberuntungan jika menge-click tombolnya
 
 
 ## Solution
--petama saya menginstal extension cookieManager di browser
--kemudian ganti value dengan angka 1
--selanjutnya refresh browser
--di website akan muncul flagnya yaitu: ForestyHC{here_is_your_fortun3_cookie_4a0a47}
+-petama saya menginstal extension cookieManager di browser/n
+-kemudian ganti value dengan angka 1/n
+-selanjutnya refresh browser/n
+-di website akan muncul flagnya yaitu: ForestyHC{here_is_your_fortun3_cookie_4a0a47}/n
 
