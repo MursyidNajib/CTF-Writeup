@@ -9,4 +9,5 @@ List of Challange I solved.
 | Category | Challenge |
 | --- | --- |
 | MISCELLANEOUS | [Sanity Check](/Judul%201/)
-| Web Exploitation | [Fortune Cookies](/Judul%202/)
+| WEB EXPLOITATION | [Fortune Cookies](/Judul%202/)
+ 
