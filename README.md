@@ -10,4 +10,11 @@ List of Challange I solved.
 | --- | --- |
 | MISCELLANEOUS | [Sanity Check](/SanityCheck%20/)
 | WEB EXPLOITATION | [Fortune Cookies](/Judul%202/)
+
+
+### Week 2
+| Category | Challenge |
+| --- | --- |
+| CRYPTOGRAPHY | [Vigenere](/Vigenere)
+| CRYPTOGRAPHY | [RSA](/RSA)
  
